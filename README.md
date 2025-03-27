@@ -61,13 +61,7 @@
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JAHIDUL456/JAHIDUL456/output/snake.svg" alt="Snake animation" />
-
-###
 
 <br clear="both">
 
