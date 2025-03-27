@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! I'm <style color="green">  Md. Jahidul Islam </style>, a passionate Software Engineer specializing in Machine Learning and Web Development. I create innovative solutions that make a real-world impact! 🚀</h2>
+<h2><p><span style="color: blue;">Md. Jahidul Islam</span>, a passionate <span style="color: green;">Software Engineer</span> specializing in Machine Learning and Web Development. I create innovative solutions that make a real-world impact! 🚀</p></h2>
+
 
 ###
 
