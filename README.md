@@ -71,10 +71,12 @@
 
 <br clear="both">
 
+
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JAHIDUL456/JAHIDUL456/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JAHIDUL456/JAHIDUL456/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JAHIDUL456/JAHIDUL456/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JAHIDUL456/JAHIDUL456/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JAHIDUL456/JAHIDUL456/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/JAHIDUL456/JAHIDUL456/output/github-snake.svg" />
 </picture>
 
 ###
