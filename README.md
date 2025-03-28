@@ -62,7 +62,7 @@
   <a href="https://www.youtube.com/@techandgaming01" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="mdjahidulislam1n1@gmail.com">
+  <a href="mailto:mdjahidulislam1n1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/jahid1n1/" target="_blank">
